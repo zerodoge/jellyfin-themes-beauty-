@@ -100,7 +100,7 @@ form {
   --accent: 229, 9, 20;
   --bg_item: rgba(0, 0, 0, 0.5);
   --rounding: 10px;
-  --bkg_img_desktop: url("https://rawcdn.githack.com/zerodoge/jellyfin-themes-beauty-/main/【哲风壁纸】傍晚路灯-山脉-水面.png") !important;
+  --bkg_img_desktop: url("C:/Users/A/Pictures/images") !important;
   --bkg_img_mobile: url("https://rawcdn.githack.com/kalibrado/jellyfin-themes-beauty/dfad914984ec2200808626501ac6c9fa3f2da470/images/galaxy-mobile.jpg") !important;
 }
 
