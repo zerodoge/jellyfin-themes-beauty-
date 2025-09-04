@@ -51,7 +51,7 @@
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: blur(1px);
+  filter: blur(10px);
   background-image: var(--bkg_img_desktop);
 }
 #loginPage {
