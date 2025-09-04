@@ -132,8 +132,8 @@ form {
 /* Desktop */
 @media (min-width: 481px) {
   .skinHeader.semiTransparent {
-    -webkit-backdrop-filter: none !important;
-    backdrop-filter: none !important;
+    -webkit-backdrop-filter: blur(5px) !important;
+    backdrop-filter: blur(5px) !important;
     background-color: var(--bg_item) !important;
   }
   .detailPageSecondaryContainer {
