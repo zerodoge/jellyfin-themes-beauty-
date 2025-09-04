@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/base.css");
+@import url("https://rawcdn.githack.com/zerodoge/jellyfin-themes-beauty-/main/base.css");
 @import url("https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/accentlist.css");
 @import url("https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fixes.css");
 @import url("https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/jf_font.css");
@@ -51,7 +51,7 @@
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: blur(10px);
+  filter: blur(7px);
   background-image: var(--bkg_img_desktop);
 }
 #loginPage {
@@ -63,8 +63,8 @@
 }
 
 .skinHeader.semiTransparent {
-  -webkit-backdrop-filter: none !important;
-  backdrop-filter: none !important;
+  -webkit-backdrop-filter: blur(31px) !important;
+  backdrop-filter: blur(31px) !important;
   background-color: rgba(0, 0, 0, 0) !important;
 }
 
@@ -98,9 +98,9 @@ form {
 /*Accent and roundingd */
 :root {
   --accent: 146, 90, 184;
-  --bg_item: rgba(0, 0, 0, 0.3);
-  --rounding: 10px;
-  --bkg_img_desktop: url("https://raw.githubusercontent.com/zerodoge/jellyfin-themes-beauty-/refs/heads/main/images/DWS8G3pzudZXPaL.jpg") !important;
+  --bg_item: rgba(0, 0, 0, 0.6);
+  --rounding: 31px;
+  --bkg_img_desktop: url("https://images.pexels.com/photos/3312671/pexels-photo-3312671.jpeg") !important;
   --bkg_img_mobile: url("https://raw.githubusercontent.com/zerodoge/jellyfin-themes-beauty-/refs/heads/main/images/galaxy-mobile.jpg") !important;
 }
 
