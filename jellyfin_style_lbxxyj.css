@@ -97,8 +97,8 @@ form {
 
 /*Accent and roundingd */
 :root {
-  --accent: 229, 9, 20;
-  --bg_item: rgba(0, 0, 0, 0.5);
+  --accent: 146, 90, 184;
+  --bg_item: rgba(0, 0, 0, 0.3);
   --rounding: 10px;
   --bkg_img_desktop: url("https://raw.githubusercontent.com/zerodoge/jellyfin-themes-beauty-/refs/heads/main/images/DWS8G3pzudZXPaL.jpg") !important;
   --bkg_img_mobile: url("https://raw.githubusercontent.com/zerodoge/jellyfin-themes-beauty-/refs/heads/main/images/galaxy-mobile.jpg") !important;
